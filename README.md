@@ -2,3 +2,5 @@
 
 This is my assignment for the Modular CSS. And for this modular CSS, I made SASS file.
 But, I applied that modular CSS only for the mainHead and sideNav.
+Throughout this assignment, I've learned how can I deal with CSS more efficiently.
+

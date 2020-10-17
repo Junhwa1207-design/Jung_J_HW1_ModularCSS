@@ -4,7 +4,7 @@
         .then(res => res.json())
         .then(data => {  
           console.log(data);
-          function(data){
+          function loadDataSet(data){
             document.querySelector('.profPanelText').innerHTML = data;
           }
           if(response.status === '404'){
